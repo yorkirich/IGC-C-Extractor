@@ -1,4 +1,4 @@
-# IGC-to-XCTSK-Converter
+# IGC-C-Extractor
 
 To claim a declared flight in the UK XC League the pilot needs to enter their start, finish and optional intermediate points at the time of uploading their IGC file.  In today's world where scanning a task code is prevalent determining the coordinates takes a couple of minutes effort and a little knowledge.
 
